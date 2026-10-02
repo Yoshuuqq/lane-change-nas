@@ -8,7 +8,7 @@ A small, self-contained study that applies a complete bi-objective neural archit
 
 **Search.** Over a space of 780 multilayer perceptrons (1–4 hidden layers, widths in {16, 32, 64, 128, 256}), random search maximises the validation AUC and minimises the number of parameters. The result is compared with a hand-designed baseline, `[64, 64]`.
 
-The full description is in the report: [`report.pdf`](report.pdf).
+The full description is in the report: [`report.pdf`](report.pdf?raw=true).
 
 ## Main results
 
