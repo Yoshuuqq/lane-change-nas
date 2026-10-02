@@ -67,3 +67,4 @@ Training was run on the GPU of an Apple M1 Pro (PyTorch, MPS backend). On that m
 ## Use of AI tools
 
 An AI assistant (Claude, Anthropic) was used throughout this project. It drafted most of the code and proposed drafts of the text. All decisions on the study were taken by the author, who also ran all experiments, verified the results against the code and its outputs, and reviewed and revised the code and the text.
+Moreover the code present in this repository is a cleaned-up version of the original one. Using Claude, comments and explanations were rewritten in english and the cell were reordered for readability. The executable code is unchanged, and the stored outputs are those of the original code.
